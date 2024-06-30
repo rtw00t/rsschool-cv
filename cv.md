@@ -29,7 +29,7 @@ January 2011 - Present (13 years 6 months)
 
 ### Completed projects 
 
-CV - https://Link.to.be/updated
+CV - https://github.com/rtw00t/rsschool-cv/blob/2be3b43085f69d94111b44911af36a2c4049c02a/cv.md
 
 ### Code sample
 
