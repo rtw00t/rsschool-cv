@@ -3,9 +3,9 @@
 
 ### Contact
 
-https://t.me/rtwoot 
-https://discordapp.com/users/598199513798148109 (@rtwoot)
-https://www.linkedin.com/in/lizunkou/
+* https://t.me/rtwoot 
+* https://discordapp.com/users/598199513798148109 (@rtwoot)
+* https://www.linkedin.com/in/lizunkou/
 
 ### About me
 
@@ -14,12 +14,12 @@ Snow-boarder, golfer, moto-rider, happy father of 8yo daugher.
 
 ### Skills
 
-- Git
-- Manual testing
-- business analysis
-- VSCode
-- Python (beginner)
-- JS (beginner)
+* Git
+* Manual testing
+* Business analysis
+* VSCode
+* Python (beginner)
+* JS (beginner)
 
 ### Work experience
 
@@ -33,31 +33,31 @@ CV - https://Link.to.be/updated
 
 ### Code sample
 
-class Multiply {
+'''class Multiply {
     static multiply(a, b) {
         return a * b;
     }
-}
+}'''
 
 ### Education
 
-Rolling Scope School
+* Rolling Scope School
 Attendee, JS stage_0 · (June 2024 - current time)
 
-IT Academy
+* IT Academy
 Graduate, Business Analysis in IT Field · (August 2021 - October 2021)
 
-Belaruski Dzjaržauny Ekanamièny Universitet
+* Belaruski Dzjaržauny Ekanamiczny Universitet
 Bachelor of Science (BSc), Economics · (1993 - 1997)
 
-Higher School of Management and Business at Belarus State
+* Higher School of Management and Business at Belarus State
 Economic University
 Bachelor of Science (BSc), Law · (1997 - 2000)
 
-Stanford University
+* Stanford University
 Python · (2021 - 2021)
 
-Education Center geekhub.by
+* Education Center geekhub.by
 Graduate, Business Analysis · (August 2021 - September 2021)
 
 ### English language level
