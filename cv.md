@@ -33,11 +33,11 @@ CV - https://Link.to.be/updated
 
 ### Code sample
 
-'''class Multiply {
+```class Multiply {
     static multiply(a, b) {
         return a * b;
     }
-}'''
+}```
 
 ### Education
 
