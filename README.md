@@ -1,2 +1,2 @@
 # rsschool-cv
-CV task repository
+https://rtw00t.github.io/rsschool-cv/cv
